@@ -1,0 +1,2 @@
+# .pasha
+ecommerce websiteDemo
